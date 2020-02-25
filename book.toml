@@ -1,0 +1,7 @@
+[book]
+authors = ["Rachel K"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rachel's Recipes"
+

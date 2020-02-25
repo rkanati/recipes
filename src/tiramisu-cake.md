@@ -1,18 +1,28 @@
 
-INGREDIENTS
-    3 x 350g chocolate loaf cakes (shop-bought variety is fine)
-    300ml-400ml Tia Maria
-    1-2 teaspoons cocoa for dusting
-    chocolate-covered coffee beans (optional)
+# Tiramisu Cake
 
-FOR THE FILLING
-    2 large organic eggs
-    75g caster sugar
-    500g mascarpone
-    250ml double cream
-    125ml Tia Maria
+Serves 12.
 
-METHOD
+## Ingredients
+
+|         |     |                                  |
+|--------:|:----|:---------------------------------|
+| 1       | kg  | Chocolate loaf cake, shop-bought |
+| 300-400 | ml  | Tia Maria                        |
+| 1-2     | tsp | Cocoa powder                     |
+
+### For The Filling
+
+|         |     |                                  |
+|--------:|:----|:---------------------------------|
+| 2       |     | Eggs, large                      |
+| 75      | g   | Caster sugar                     |
+| 500     | g   | Mascarpone                       |
+| 250     | ml  | Double cream                     |
+| 125     | ml  | Tia Maria                        |
+
+## Method
+
 - Wrap the outside of a 23cm springform cake tin with clingfilm or foil to avoid leaks from the base. Slice the chocolate cakes thinly, and pour the 300ml (or more if needed) of Tia Maria into a shallow dish, ready for soaking the cake slices as you need them.
 
 - Before you start to layer the cakes, whisk the eggs and sugar, and then beat in the mascarpone and double cream; I use an electric whisk for this, but there is no need to if you’re feeling muscly. Then add, gradually, the 125ml Tia Maria to make a creamy spreadable layer for the cake.
@@ -23,9 +33,11 @@ METHOD
 
 - When you are ready to serve, take the cake out of the fridge, unmould, sit it on a plate or cake stand, then spread with the final third of cream mixture, before dusting with cocoa and serving. The cake is too deliciously damp to lift it off the tin’s base, but I shouldn’t let that worry you; if you want, though, you can scatter some chocolate-covered coffee beans around the cake, once it’s sitting on its serving plate, to deflect critical gaze away from the visible edge of tin.
 
-MAKE AHEAD TIP
+### Tip: Make Ahead
+
 Make the tiramisu, cover with clingfilm, and store in the fridge for up to 4 days. Unmould and finish as directed.
 
-FREEZE AHEAD TIP
+### Tip: Freeze Ahead
+
 Unmould the tiramisu, finish with the remaining cream then open freeze. When solid, cover securely with a double layer of clingfilm and return to the freezer for up to 3 months. To use, unwrap the tiramisu, place on a serving dish and thaw overnight in the fridge. Dust with cocoa and serve.
 
