@@ -1,4 +1,4 @@
-# Pizza (wip)
+# Pizza
 
 Based primarily on [this recipe](https://www.bbcgoodfood.com/user/39789/recipe/homemade-pizza-0),
 but also [this](https://www.bakingmad.com/recipe/deep-pan-pizza-by-allinson)
@@ -6,15 +6,17 @@ and [this](https://www.bbcgoodfood.com/recipes/sicilian-pizza-sfincione).
 
 ## Ingredients
 
+Makes 2 18x25cm deep-pan pizzas.
+
 |       |        |                                               |
 |------:|:-------|:----------------------------------------------|
 | For the dough                                                |||
-| 550   | g      | strong white flour                            |
-|   1   | tsp    | table salt                                    |
-|   7   | g      | dry yeast                                     |
-|   1   | tsp    | sugar                                         |
-|   2   | tbsp   | oil, olive or vegetable                       |
-| 320   | ml     | water, tepid                                  |
+| 365   | g      | strong white flour                            |
+| 2/3   | tsp    | table salt                                    |
+|   4   | g      | dry yeast                                     |
+| 2/3   | tsp    | sugar                                         |
+|   4   | tsp    | oil, olive or vegetable                       |
+| 210   | ml     | water, tepid                                  |
 |       |        |                                               |
 | For the sauce                                                |||
 |   2   | cloves | garlic, minced                                |
@@ -25,6 +27,7 @@ and [this](https://www.bbcgoodfood.com/recipes/sicilian-pizza-sfincione).
 |   -   | -      | salt                                          |
 |   -   | -      | pepper                                        |
 |       |        |                                               |
+|       |        |                                               |
 | Toppings                                                     |||
 | ???   | g      | mozarella and other cheeses                   |
 
@@ -34,7 +37,7 @@ and [this](https://www.bbcgoodfood.com/recipes/sicilian-pizza-sfincione).
 
 - Add yeast, sugar, and oil to water, allowing the yeast to activate.
 
-- Sift flour into large bowl. Add yeast suspension, stirring to combine.
+- Sift flour and salt into large bowl. Add yeast suspension, stirring to combine.
 
 - Turn out rough dough and knead on a floured surface for 10 minutes, until a dough is formed.
 
