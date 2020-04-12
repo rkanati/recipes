@@ -1,14 +1,26 @@
 
-100 g     butter
-175 g     sugar
-  2       eggs
-  2       ripe bananas
-225 g     self-raising flour
-  1 tsp   baking powder
-  2 tbsp  milk
-  1 tsp   cinnamon
-  1 tsp   banana flavouring
+# Banana Bread
 
-mix ingredients in large bowl. beat until fairly homogeneous.
-bake in oven for 1h at 180 Celsius.
+## Ingredients
+
+|     |       |                          |
+|----:|:------|:-------------------------|
+| 225 | g     | Flour, self-raising      |
+| 150 | g     | Sugar                    |
+| 100 | g     | Butter, unsalted         |
+|   2 | large | Eggs                     |
+|   2 | large | Bananas, ripe            |
+|   2 | tbsp  | Milk                     |
+|   1 | tsp   | Baking powder            |
+|   1 | tsp   | Cinnamon                 |
+|   1 | tsp   | Banana flavouring        |
+| 1/2 | tsp   | Salt                     |
+
+## Method
+
+- Mix ingredients in large bowl. Beat until fairly homogeneous.
+
+- Pour mixture into loaf tin. Dust with sugar for a sweet topping.
+
+- Bake in oven for 1h at 180 Celsius.
 
