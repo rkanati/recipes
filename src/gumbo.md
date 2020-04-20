@@ -9,28 +9,28 @@ Based on a recipe demonstrated by Isaac Toupes on
 |       |        |                                               |
 |------:|:-------|:----------------------------------------------|
 | The holy trinity                                             |||
-| 2     | sticks | celery, roughly chopped                       |
-| 1     |        | green pepper, roughly chopped                 |
-| 1     |        | white onion, roughly chopped                  |
+| 2     | sticks | Celery, roughly chopped                       |
+| 1     |        | Green pepper, roughly chopped                 |
+| 1     |        | White onion, roughly chopped                  |
 |       |        |                                               |
 | For the roux                                                 |||
-| 120   | ml     | vegetable oil                                 |
-|  60   | g      | plain flour                                   |
+| 120   | ml     | Vegetable oil                                 |
+|  60   | g      | Flour, plain                                  |
 |       |        |                                               |
 | For the broth                                                |||
-| 250   | ml     | dark beer                                     |
-| 1     | l      | strong chicken stock                          |
+| 250   | ml     | Dark beer                                     |
+| 1     | l      | Chicken stock, strong                         |
 |       |        |                                               |
 | The meats                                                    |||
-| 450   | g      | chicken thigh, splayed, salted and peppered   |
-| 450   | g      | sausage, preferably smoked, sliced            |
+| 450   | g      | Chicken thigh, splayed, salted and peppered   |
+| 450   | g      | Sausage, preferably smoked, sliced            |
 |       |        |                                               |
 | The seasoning                                                |||
-| lots  |        | ground pepper                                 |
-| 1     | tbsp   | smoked paprika                                |
-| 1     | tbsp   | cayenne pepper (probably less!)               |
-| 6     | cloves | garlic, minced                                |
-| 2     |        | bay leaves                                    |
+| lots  |        | Black pepper, ground                          |
+| 1     | tbsp   | Paprika, smoked                               |
+| 1     | tbsp   | Cayenne pepper (probably less!)               |
+| 6     | cloves | Garlic, minced                                |
+| 2     |        | Bay leaves                                    |
 
 ## Method
 

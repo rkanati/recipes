@@ -11,25 +11,25 @@ Makes 2 18x25cm deep-pan pizzas.
 |       |        |                                               |
 |------:|:-------|:----------------------------------------------|
 | For the dough                                                |||
-| 365   | g      | strong white flour                            |
-| 2/3   | tsp    | table salt                                    |
-|   4   | g      | dry yeast                                     |
-| 2/3   | tsp    | sugar                                         |
-|   4   | tsp    | oil, olive or vegetable                       |
-| 210   | ml     | water, tepid                                  |
+| 365   | g      | Strong white flour                            |
+| 2/3   | tsp    | Table salt                                    |
+|   4   | g      | Yeast, dry                                    |
+| 2/3   | tsp    | Sugar                                         |
+|   4   | tsp    | Oil, olive or vegetable                       |
+| 210   | ml     | Water, tepid                                  |
 |       |        |                                               |
 | For the sauce                                                |||
-|   2   | cloves | garlic, minced                                |
-|   1   | tbsp   | tomato purée                                  |
-| 3-4   | tbsp   | passata                                       |
-|   1   | tsp    | basil                                         |
-|   1   | tsp    | oregano                                       |
-|   -   | -      | salt                                          |
-|   -   | -      | pepper                                        |
+|   2   | cloves | Garlic, minced                                |
+|   1   | tbsp   | Tomato purée                                  |
+| 3-4   | tbsp   | Passata                                       |
+|   1   | tsp    | Basil                                         |
+|   1   | tsp    | Oregano                                       |
+|   -   | -      | Salt                                          |
+|   -   | -      | Pepper                                        |
 |       |        |                                               |
 |       |        |                                               |
 | Toppings                                                     |||
-| ???   | g      | mozarella and other cheeses                   |
+| ???   | g      | Mozarella and other cheeses                   |
 
 ## Method
 
